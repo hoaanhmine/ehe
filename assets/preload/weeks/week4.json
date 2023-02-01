@@ -1,22 +1,33 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "3",
+	"freeplayColor": [
+		127,
+		0,
+		255
 	],
-	
+	"weekBefore": "week2",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"mom",
+		"camellia",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"lioness-pride",
+			"botan",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "week3HF",
+	"hiddenUntilUnlocked": false
 }

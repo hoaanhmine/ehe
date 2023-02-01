@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"freeplayColor": [
+		127,
+		0,
+		255
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"spooky",
+		"camellia",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"first-town",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"liquated",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"why-do-you-hate-me",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "weeks1",
+	"hiddenUntilUnlocked": false
 }

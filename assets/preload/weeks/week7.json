@@ -1,48 +1,33 @@
 {
-	"songs": [
-		[
-			"Ugh",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		],
-		[
-			"Guns",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		],
-		[
-			"Stress",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		]
-	],
+	"storyName": "",
+	"difficulties": "Mania-c,Modchart,Mania-c-cmode,Modchart-cmode",
 	"hideFreeplay": false,
-	"weekBackground": "tank",
+	"weekBackground": "3",
+	"freeplayColor": [
+		127,
+		0,
+		255
+	],
+	"weekBefore": "week2",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"tankman",
+		"camellia",
 		"bf",
 		"gf"
 	],
-	"storyName": "Tankman",
-	"weekName": "Week 7",
-	"freeplayColor": [
-		146,
-		113,
-		253
+	"songs": [
+		[
+			"rude-buster",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	
 	],
-	"hideStoryMode": false,
-	"weekBefore": "week6",
-	"startUnlocked": true
+	"hideStoryMode": true,
+	"weekName": "week3HF",
+	"hiddenUntilUnlocked": false
 }

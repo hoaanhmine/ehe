@@ -1,20 +1,33 @@
 {
-	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"freeplayColor": [
+		127,
+		0,
+		255
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+		"tutorial",
+			"gf",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	
+	],
+	"hideStoryMode": true,
+	"weekName": "tutorisal",
+	"hiddenUntilUnlocked": false
 }

@@ -1,0 +1,17 @@
+Camellia mod Vocal covers
+LiterallyNoOne::LiterallyNoOne::Camellia模组作者（新主管）::twitter.com/L_No_One1::8A2BE2
+tictacto::tictacto::Camellia模组作者::twitter.com/tictactuh_::8A2BE2
+Camellia v2.1 main coding
+beihu::beihu::(北狐丶逐梦:项目总策划)  正如你所见，我一个人移植了整个模组，如果你想二改请联系我::https://b23.tv/LVj0JVk::FFC0CB
+coding help
+heihua::heihua::(黑化:编程帮助)ke小图标跳动，防糊编写::https://b23.tv/RlmDhyY::FFFFFF
+youyan::youyan::(油盐不贵:编程帮助)防糊编写::https://b23.tv/Z3MEV6q::66FF33
+phase8::phase8::(天龙:编程帮助)防糊编写::https://b23.tv/Yk5ot80::4B0082
+st_rock_suger::st_rock_suger::(冰糖:编程帮助)week1背景搭建帮助::https://b23.tv/EaLGT9O::FFFF00
+Xx_angelkawaii_X::Xx_angelkawaii_X::(珂丝莫:编程帮助)摄像机防跳动::https://b23.tv/uxhZlnT::8A2BE2 
+Niko_matthew::Niko_matthew::(Niko_matthew:编程帮助)防糊编写，myth UI血条跳动优化::https://b23.tv/z2XYtk7::6495ED
+artist
+mengfu::mengfu::(萌福:贴图帮助)week2背景贴图重置::https://m.bilibili.com/space/327018329?share_from=space&share_medium=android&share_plat=android&share_session_id=a7c28814-cd5c-4fbc-934c-30f1ddface92&share_source=COPY&share_tag=s_i&timestamp=1660577830&unique_k=NvGwjTl::FFFF00
+KuronoR::KuronoR::（阿冉:贴图帮助)week2背景贴图重置::https://b23.tv/VW0h2oL::CD5C5C
+special thanks
+TF_Yeah::TF_Yeah::（事替爱服不事条幅:贴图图画师)作者小贴图画师::https://b23.tv/6tItHp5::778899

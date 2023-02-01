@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "",
+	"difficulties": "Normal, Hard, Mania-c, Modchart",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"freeplayColor": [
+		127,
+		0,
+		255
 	],
-
+	"weekBefore": "week1",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"pico",
+		"camellia",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"quaoar",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+		"crystallized",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		],
+		[
+			"nacreous-snowmelt",
+			"camellia",
+			[
+				127,
+				0,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "week2",
+	"hiddenUntilUnlocked": false
 }
